@@ -15,7 +15,6 @@ const simpleTodo = () => {
     });
     setTodo(filteredTodo);
   };
-  console.log(todo);
   return (
     <>
       <div className="todo">
